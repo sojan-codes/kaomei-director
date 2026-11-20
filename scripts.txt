@@ -1,0 +1,8 @@
+
+
+    Directory: C:\Users\ASUS\Desktop\stickman-video-director\scripts
+
+
+Mode                 LastWriteTime         Length Name                                                                                                              
+----                 -------------         ------ ----                                                                                                              
+-a----        11/20/2026   6:47 PM           1724 optimize-readme-previews.sh                                                                                       

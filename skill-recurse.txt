@@ -1,0 +1,1033 @@
+-a----        11/20/2026   6:47 PM           3837 b612db14b1acf68cb6.png                                                                                            
+-a----        11/20/2026   6:47 PM           1698 b7d98fa608a6b848d4.png                                                                                            
+-a----        11/20/2026   6:47 PM           1944 b8868d3390fe501b8a.png                                                                                            
+-a----        11/20/2026   6:47 PM           4452 bd95352fe8d761ae38.png                                                                                            
+-a----        11/20/2026   6:47 PM            448 be4d173b09dff2203b.png                                                                                            
+-a----        11/20/2026   6:47 PM           1292 bec01a55e9666869c5.png                                                                                            
+-a----        11/20/2026   6:47 PM           1574 c13738fd0868e632d2.png                                                                                            
+-a----        11/20/2026   6:47 PM           3956 c4f86c26076970f58a.png                                                                                            
+-a----        11/20/2026   6:47 PM           2726 c5f3aafaec3d950a23.png                                                                                            
+-a----        11/20/2026   6:47 PM           2443 c80e4606e99251cbd4.png                                                                                            
+-a----        11/20/2026   6:47 PM           2998 c87c216baa84430320.png                                                                                            
+-a----        11/20/2026   6:47 PM           2906 c93437235840b7b06c.png                                                                                            
+-a----        11/20/2026   6:47 PM           2550 ca5bc19dea5ce6716d.png                                                                                            
+-a----        11/20/2026   6:47 PM           3174 ca7f85bb72ce877c95.png                                                                                            
+-a----        11/20/2026   6:47 PM           3888 d1acdc4c87d26f5490.png                                                                                            
+-a----        11/20/2026   6:47 PM           7296 d26fca5bf32c2c4ecc.png                                                                                            
+-a----        11/20/2026   6:47 PM           1898 d34d8404d021ad5bec.png                                                                                            
+-a----        11/20/2026   6:47 PM           4161 d415d50c73d3b9bfb2.png                                                                                            
+-a----        11/20/2026   6:47 PM           7293 d4c47a714d469a5373.png                                                                                            
+-a----        11/20/2026   6:47 PM           1827 d4eb1327364d75c871.png                                                                                            
+-a----        11/20/2026   6:47 PM           2912 d52e241b569bdf8f33.png                                                                                            
+-a----        11/20/2026   6:47 PM           2873 d5a15f48ef0ff82949.png                                                                                            
+-a----        11/20/2026   6:47 PM           2866 d68ec3fcb134087c4c.png                                                                                            
+-a----        11/20/2026   6:47 PM           2437 d82649e66e6a045940.png                                                                                            
+-a----        11/20/2026   6:47 PM           2068 db43c56e2241f1eaa9.png                                                                                            
+-a----        11/20/2026   6:47 PM           1835 dbdd9695fbbc372d94.png                                                                                            
+-a----        11/20/2026   6:47 PM           1320 dc30d78567b0e43ef0.png                                                                                            
+-a----        11/20/2026   6:47 PM           1118 dc9b72cc802a2b2e66.png                                                                                            
+-a----        11/20/2026   6:47 PM           1666 dd41d05601ccaf29e0.png                                                                                            
+-a----        11/20/2026   6:47 PM           2096 de2e757883404edfad.png                                                                                            
+-a----        11/20/2026   6:47 PM           2104 e0d36f91956ef7ae92.png                                                                                            
+-a----        11/20/2026   6:47 PM           2060 e442f79aad0412dd40.png                                                                                            
+-a----        11/20/2026   6:47 PM           6284 e513bdab41f40d08fa.png                                                                                            
+-a----        11/20/2026   6:47 PM           6707 e52c56e96fb5c2ed93.png                                                                                            
+-a----        11/20/2026   6:47 PM           3131 e5f447b8fd79b4352d.png                                                                                            
+-a----        11/20/2026   6:47 PM           4229 e626d9dbdb40dbeab4.png                                                                                            
+-a----        11/20/2026   6:47 PM           5012 e6844e22a0091901cd.png                                                                                            
+-a----        11/20/2026   6:47 PM           3751 e701ae6792c6dba2e5.png                                                                                            
+-a----        11/20/2026   6:47 PM           3282 e71701e82f33aaf1b2.png                                                                                            
+-a----        11/20/2026   6:47 PM           3100 e76fcc27cba513351f.png                                                                                            
+-a----        11/20/2026   6:47 PM           7276 e8fa60ae848091a9fb.png                                                                                            
+-a----        11/20/2026   6:47 PM           2048 e9ac70bba53d9b31ab.png                                                                                            
+-a----        11/20/2026   6:47 PM           1333 ea26d0cf7d4efd617b.png                                                                                            
+-a----        11/20/2026   6:47 PM           6163 ed0f80724ab808205a.png                                                                                            
+-a----        11/20/2026   6:47 PM           4713 ef063e074e237b32c2.png                                                                                            
+-a----        11/20/2026   6:47 PM           2277 f110596754454ceab0.png                                                                                            
+-a----        11/20/2026   6:47 PM            470 f3b175bdb0869d48d3.png                                                                                            
+-a----        11/20/2026   6:47 PM           1271 fe0f58ca54a15a4696.png                                                                                            
+-a----        11/20/2026   6:47 PM           2209 fe11d5341aae09ce77.png                                                                                            
+-a----        11/20/2026   6:47 PM           2744 fe41497375279de0e0.png                                                                                            
+-a----        11/20/2026   6:47 PM           1600 fea8db2c65f09a71e8.png                                                                                            
+
+
+    Directory: C:\Users\ASUS\Desktop\stickman-video-director\skills\directing-stickman-videos\assets\b5\local-baselines\mei-event-relay
+
+
+Mode                 LastWriteTime         Length Name                                                                                                              
+----                 -------------         ------ ----                                                                                                              
+-a----        11/20/2026   6:47 PM        2166795 approved-sample.mp4                                                                                               
+-a----        11/20/2026   6:47 PM           1692 README.md                                                                                                         
+-a----        11/20/2026   6:47 PM            635 user-approval.json                                                                                                
+
+
+    Directory: C:\Users\ASUS\Desktop\stickman-video-director\skills\directing-stickman-videos\assets\b5\motion
+
+
+Mode                 LastWriteTime         Length Name                                                                                                              
+----                 -------------         ------ ----                                                                                                              
+-a----        11/20/2026   6:47 PM           2690 mei-reference-rig-demo.cjs                                                                                        
+-a----        11/20/2026   6:47 PM           1256 mei-reference-rig.cjs                                                                                             
+-a----        11/20/2026   6:47 PM           1667 tempo.cjs                                                                                                         
+
+
+    Directory: C:\Users\ASUS\Desktop\stickman-video-director\skills\directing-stickman-videos\assets\b5\reference
+
+
+Mode                 LastWriteTime         Length Name                                                                                                              
+----                 -------------         ------ ----                                                                                                              
+-a----        11/20/2026   6:47 PM         572436 0000.png                                                                                                          
+-a----        11/20/2026   6:47 PM         605133 0055.png                                                                                                          
+-a----        11/20/2026   6:47 PM         488883 0128.png                                                                                                          
+-a----        11/20/2026   6:47 PM         594834 0226.png                                                                                                          
+-a----        11/20/2026   6:47 PM         601090 0335.png                                                                                                          
+-a----        11/20/2026   6:47 PM         414641 0390.png                                                                                                          
+-a----        11/20/2026   6:47 PM         569109 0510.png                                                                                                          
+-a----        11/20/2026   6:47 PM         483437 0580.png                                                                                                          
+-a----        11/20/2026   6:47 PM         471290 0641.png                                                                                                          
+-a----        11/20/2026   6:47 PM         215947 contact-sheet.jpg                                                                                                 
+
+
+    Directory: C:\Users\ASUS\Desktop\stickman-video-director\skills\directing-stickman-videos\assets\b6
+
+
+Mode                 LastWriteTime         Length Name                                                                                                              
+----                 -------------         ------ ----                                                                                                              
+d-----        11/20/2026   6:47 PM                characters                                                                                                        
+d-----        11/20/2026   6:47 PM                hong-kong-v90                                                                                                     
+d-----        11/20/2026   6:47 PM                paint                                                                                                             
+d-----        11/20/2026   6:47 PM                production                                                                                                        
+d-----        11/20/2026   6:47 PM                reference                                                                                                         
+d-----        11/20/2026   6:47 PM                starter                                                                                                           
+-a----        11/20/2026   6:47 PM           4852 gallery.json                                                                                                      
+-a----        11/20/2026   6:47 PM          15530 manifest.json                                                                                                     
+-a----        11/20/2026   6:47 PM          14590 style-standard.json                                                                                               
+
+
+    Directory: C:\Users\ASUS\Desktop\stickman-video-director\skills\directing-stickman-videos\assets\b6\characters
+
+
+Mode                 LastWriteTime         Length Name                                                                                                              
+----                 -------------         ------ ----                                                                                                              
+d-----        11/20/2026   6:47 PM                kiosk_keeper                                                                                                      
+d-----        11/20/2026   6:47 PM                parcel_runner                                                                                                     
+-a----        11/20/2026   6:47 PM          16239 action-envelope-report.json                                                                                       
+-a----        11/20/2026   6:47 PM           4127 asset-provenance.json                                                                                             
+-a----        11/20/2026   6:47 PM          11220 asset-validation.json                                                                                             
+-a----        11/20/2026   6:47 PM         159867 two-character-three-view-sheet.jpg                                                                                
+
+
+    Directory: C:\Users\ASUS\Desktop\stickman-video-director\skills\directing-stickman-videos\assets\b6\characters\kiosk_keeper
+
+
+Mode                 LastWriteTime         Length Name                                                                                                              
+----                 -------------         ------ ----                                                                                                              
+d-----        11/20/2026   6:47 PM                front                                                                                                             
+d-----        11/20/2026   6:47 PM                side                                                                                                              
+d-----        11/20/2026   6:47 PM                three_quarter                                                                                                     
+-a----        11/20/2026   6:47 PM           5071 hand.png                                                                                                          
+-a----        11/20/2026   6:47 PM          25237 package.json                                                                                                      
+-a----        11/20/2026   6:47 PM           8607 shoe-left.png                                                                                                     
+-a----        11/20/2026   6:47 PM           9828 shoe-right.png                                                                                                    
+
+
+    Directory: C:\Users\ASUS\Desktop\stickman-video-director\skills\directing-stickman-videos\assets\b6\characters\kiosk_keeper\front
+
+
+Mode                 LastWriteTime         Length Name                                                                                                              
+----                 -------------         ------ ----                                                                                                              
+-a----        11/20/2026   6:47 PM          42361 body.png                                                                                                          
+-a----        11/20/2026   6:47 PM          42410 cuff-left.png                                                                                                     
+-a----        11/20/2026   6:47 PM          42432 cuff-right.png                                                                                                    
+-a----        11/20/2026   6:47 PM         158615 head.png                                                                                                          
+
+
+    Directory: C:\Users\ASUS\Desktop\stickman-video-director\skills\directing-stickman-videos\assets\b6\characters\kiosk_keeper\side
+
+
+Mode                 LastWriteTime         Length Name                                                                                                              
+----                 -------------         ------ ----                                                                                                              
+-a----        11/20/2026   6:47 PM          28512 body.png                                                                                                          
+-a----        11/20/2026   6:47 PM          28610 cuff-left.png                                                                                                     
+-a----        11/20/2026   6:47 PM          28678 cuff-right.png                                                                                                    
+-a----        11/20/2026   6:47 PM         139455 head.png                                                                                                          
+
+
+    Directory: C:\Users\ASUS\Desktop\stickman-video-director\skills\directing-stickman-videos\assets\b6\characters\kiosk_keeper\three_quarter
+
+
+Mode                 LastWriteTime         Length Name                                                                                                              
+----                 -------------         ------ ----                                                                                                              
+-a----        11/20/2026   6:47 PM          37964 body.png                                                                                                          
+-a----        11/20/2026   6:47 PM          38023 cuff-left.png                                                                                                     
+-a----        11/20/2026   6:47 PM          38030 cuff-right.png                                                                                                    
+-a----        11/20/2026   6:47 PM         303458 head.png                                                                                                          
+
+
+    Directory: C:\Users\ASUS\Desktop\stickman-video-director\skills\directing-stickman-videos\assets\b6\characters\parcel_runner
+
+
+Mode                 LastWriteTime         Length Name                                                                                                              
+----                 -------------         ------ ----                                                                                                              
+d-----        11/20/2026   6:47 PM                front                                                                                                             
+d-----        11/20/2026   6:47 PM                side                                                                                                              
+d-----        11/20/2026   6:47 PM                three_quarter                                                                                                     
+-a----        11/20/2026   6:47 PM           5071 hand.png                                                                                                          
+-a----        11/20/2026   6:47 PM          25392 package.json                                                                                                      
+-a----        11/20/2026   6:47 PM           8607 shoe-left.png                                                                                                     
+-a----        11/20/2026   6:47 PM           9828 shoe-right.png                                                                                                    
+
+
+    Directory: C:\Users\ASUS\Desktop\stickman-video-director\skills\directing-stickman-videos\assets\b6\characters\parcel_runner\front
+
+
+Mode                 LastWriteTime         Length Name                                                                                                              
+----                 -------------         ------ ----                                                                                                              
+-a----        11/20/2026   6:47 PM          46487 body.png                                                                                                          
+-a----        11/20/2026   6:47 PM          46498 cuff-left.png                                                                                                     
+-a----        11/20/2026   6:47 PM          46521 cuff-right.png                                                                                                    
+-a----        11/20/2026   6:47 PM         226315 head.png                                                                                                          
+
+
+    Directory: C:\Users\ASUS\Desktop\stickman-video-director\skills\directing-stickman-videos\assets\b6\characters\parcel_runner\side
+
+
+Mode                 LastWriteTime         Length Name                                                                                                              
+----                 -------------         ------ ----                                                                                                              
+-a----        11/20/2026   6:47 PM          32086 body.png                                                                                                          
+-a----        11/20/2026   6:47 PM          32152 cuff-left.png                                                                                                     
+-a----        11/20/2026   6:47 PM          32188 cuff-right.png                                                                                                    
+-a----        11/20/2026   6:47 PM         193561 head.png                                                                                                          
+
+
+    Directory: C:\Users\ASUS\Desktop\stickman-video-director\skills\directing-stickman-videos\assets\b6\characters\parcel_runner\three_quarter
+
+
+Mode                 LastWriteTime         Length Name                                                                                                              
+----                 -------------         ------ ----                                                                                                              
+-a----        11/20/2026   6:47 PM          42139 body.png                                                                                                          
+-a----        11/20/2026   6:47 PM          42154 cuff-left.png                                                                                                     
+-a----        11/20/2026   6:47 PM          42185 cuff-right.png                                                                                                    
+-a----        11/20/2026   6:47 PM         215529 head.png                                                                                                          
+
+
+    Directory: C:\Users\ASUS\Desktop\stickman-video-director\skills\directing-stickman-videos\assets\b6\hong-kong-v90
+
+
+Mode                 LastWriteTime         Length Name                                                                                                              
+----                 -------------         ------ ----                                                                                                              
+d-----        11/20/2026   6:47 PM                audio                                                                                                             
+d-----        11/20/2026   6:47 PM                source                                                                                                            
+-a----        11/20/2026   6:47 PM           1410 captions.json                                                                                                     
+-a----        11/20/2026   6:47 PM         104955 character-bindings.json                                                                                           
+-a----        11/20/2026   6:47 PM          10960 manifest.json                                                                                                     
+-a----        11/20/2026   6:47 PM            844 project.json                                                                                                      
+-a----        11/20/2026   6:47 PM             65 requirements.txt                                                                                                  
+-a----        11/20/2026   6:47 PM          12116 run.py                                                                                                            
+-a----        11/20/2026   6:47 PM           2432 scene-plan.json                                                                                                   
+-a----        11/20/2026   6:47 PM          24257 source-provenance.json                                                                                            
+-a----        11/20/2026   6:47 PM            529 story.json                                                                                                        
+
+
+    Directory: C:\Users\ASUS\Desktop\stickman-video-director\skills\directing-stickman-videos\assets\b6\hong-kong-v90\audio
+
+
+Mode                 LastWriteTime         Length Name                                                                                                              
+----                 -------------         ------ ----                                                                                                              
+-a----        11/20/2026   6:47 PM         493844 master.m4a                                                                                                        
+
+
+    Directory: C:\Users\ASUS\Desktop\stickman-video-director\skills\directing-stickman-videos\assets\b6\hong-kong-v90\source
+
+
+Mode                 LastWriteTime         Length Name                                                                                                              
+----                 -------------         ------ ----                                                                                                              
+d-----        11/20/2026   6:47 PM                work                                                                                                              
+
+
+    Directory: C:\Users\ASUS\Desktop\stickman-video-director\skills\directing-stickman-videos\assets\b6\hong-kong-v90\source\work
+
+
+Mode                 LastWriteTime         Length Name                                                                                                              
+----                 -------------         ------ ----                                                                                                              
+d-----        11/20/2026   6:47 PM                eiffel-emotion-full-v41                                                                                           
+d-----        11/20/2026   6:47 PM                eiffel-preview-20s                                                                                                
+d-----        11/20/2026   6:47 PM                hk-1990s-action-v59                                                                                               
+d-----        11/20/2026   6:47 PM                hk-1990s-arm-fix-v60                                                                                              
+d-----        11/20/2026   6:47 PM                hk-1990s-environment-v67                                                                                          
+d-----        11/20/2026   6:47 PM                hk-1990s-fast-entry-v58                                                                                           
+d-----        11/20/2026   6:47 PM                hk-1990s-kitchen-motion-v64                                                                                       
+d-----        11/20/2026   6:47 PM                hk-1990s-limbs-v56                                                                                                
+d-----        11/20/2026   6:47 PM                hk-1990s-motion-v52                                                                                               
+d-----        11/20/2026   6:47 PM                hk-1990s-overhaul-v57                                                                                             
+d-----        11/20/2026   6:47 PM                hk-1990s-patrons-v65                                                                                              
+d-----        11/20/2026   6:47 PM                hk-1990s-surprise-pose-v63                                                                                        
+d-----        11/20/2026   6:47 PM                hk-1990s-taxi-v68                                                                                                 
+d-----        11/20/2026   6:47 PM                hk-empty-gun-preview-v71                                                                                          
+d-----        11/20/2026   6:47 PM                hk-v68-extension-v75                                                                                              
+d-----        11/20/2026   6:47 PM                hk-v76-multiscene                                                                                                 
+d-----        11/20/2026   6:47 PM                hk-v77-actions                                                                                                    
+d-----        11/20/2026   6:47 PM                hk-v78-arm-clarity                                                                                                
+d-----        11/20/2026   6:47 PM                hk-v80-native-rate                                                                                                
+d-----        11/20/2026   6:47 PM                hk-v86-booth-arms                                                                                                 
+d-----        11/20/2026   6:47 PM                hk-v87-arm-readability                                                                                            
+d-----        11/20/2026   6:47 PM                hk-v88-ending-camera                                                                                              
+d-----        11/20/2026   6:47 PM                hk-v89-counter-opening                                                                                            
+d-----        11/20/2026   6:47 PM                hk-v90-unified-arms                                                                                               
+
+
+    Directory: C:\Users\ASUS\Desktop\stickman-video-director\skills\directing-stickman-videos\assets\b6\hong-kong-v90\source\work\eiffel-emotion-full-v41
+
+
+Mode                 LastWriteTime         Length Name                                                                                                              
+----                 -------------         ------ ----                                                                                                              
+-a----        11/20/2026   6:47 PM            997 animate.py                                                                                                        
+
+
+    Directory: C:\Users\ASUS\Desktop\stickman-video-director\skills\directing-stickman-videos\assets\b6\hong-kong-v90\source\work\eiffel-preview-20s
+
+
+Mode                 LastWriteTime         Length Name                                                                                                              
+----                 -------------         ------ ----                                                                                                              
+d-----        11/20/2026   6:47 PM                space-camera-v29                                                                                                  
+
+
+    Directory: 
+    C:\Users\ASUS\Desktop\stickman-video-director\skills\directing-stickman-videos\assets\b6\hong-kong-v90\source\work\eiffel-preview-20s\space-camera-v29
+
+
+Mode                 LastWriteTime         Length Name                                                                                                              
+----                 -------------         ------ ----                                                                                                              
+d-----        11/20/2026   6:47 PM                layers                                                                                                            
+-a----        11/20/2026   6:47 PM            796 animate.py                                                                                                        
+
+
+    Directory: 
+    C:\Users\ASUS\Desktop\stickman-video-director\skills\directing-stickman-videos\assets\b6\hong-kong-v90\source\work\eiffel-preview-20s\space-camera-v29\layers
+
+
+Mode                 LastWriteTime         Length Name                                                                                                              
+----                 -------------         ------ ----                                                                                                              
+-a----        11/20/2026   6:47 PM           4262 ink-stroke.png                                                                                                    
+
+
+    Directory: C:\Users\ASUS\Desktop\stickman-video-director\skills\directing-stickman-videos\assets\b6\hong-kong-v90\source\work\hk-1990s-action-v59
+
+
+Mode                 LastWriteTime         Length Name                                                                                                              
+----                 -------------         ------ ----                                                                                                              
+-a----        11/20/2026   6:47 PM           7784 animate.py                                                                                                        
+
+
+    Directory: C:\Users\ASUS\Desktop\stickman-video-director\skills\directing-stickman-videos\assets\b6\hong-kong-v90\source\work\hk-1990s-arm-fix-v60
+
+
+Mode                 LastWriteTime         Length Name                                                                                                              
+----                 -------------         ------ ----                                                                                                              
+d-----        11/20/2026   6:47 PM                assets                                                                                                            
+-a----        11/20/2026   6:47 PM           5026 animate.py                                                                                                        
+
+
+    Directory: C:\Users\ASUS\Desktop\stickman-video-director\skills\directing-stickman-videos\assets\b6\hong-kong-v90\source\work\hk-1990s-arm-fix-v60\assets
+
+
+Mode                 LastWriteTime         Length Name                                                                                                              
+----                 -------------         ------ ----                                                                                                              
+-a----        11/20/2026   6:47 PM          41967 owner-original-garment.png                                                                                        
+
+
+    Directory: C:\Users\ASUS\Desktop\stickman-video-director\skills\directing-stickman-videos\assets\b6\hong-kong-v90\source\work\hk-1990s-environment-v67
+
+
+Mode                 LastWriteTime         Length Name                                                                                                              
+----                 -------------         ------ ----                                                                                                              
+d-----        11/20/2026   6:47 PM                assets                                                                                                            
+-a----        11/20/2026   6:47 PM           4121 animate.py                                                                                                        
+
+
+    Directory: C:\Users\ASUS\Desktop\stickman-video-director\skills\directing-stickman-videos\assets\b6\hong-kong-v90\source\work\hk-1990s-environment-v67\assets
+
+
+Mode                 LastWriteTime         Length Name                                                                                                              
+----                 -------------         ------ ----                                                                                                              
+-a----        11/20/2026   6:47 PM           4642 briefcase-left.png                                                                                                
+-a----        11/20/2026   6:47 PM           4161 briefcase-right.png                                                                                               
+-a----        11/20/2026   6:47 PM          37331 briefcase-upper.png                                                                                               
+-a----        11/20/2026   6:47 PM           2288 coral-left.png                                                                                                    
+-a----        11/20/2026   6:47 PM           1832 coral-right.png                                                                                                   
+-a----        11/20/2026   6:47 PM          27996 coral-upper.png                                                                                                   
+-a----        11/20/2026   6:47 PM            751 layers.json                                                                                                       
+-a----        11/20/2026   6:47 PM        2270814 street-separated.png                                                                                              
+
+
+    Directory: C:\Users\ASUS\Desktop\stickman-video-director\skills\directing-stickman-videos\assets\b6\hong-kong-v90\source\work\hk-1990s-fast-entry-v58
+
+
+Mode                 LastWriteTime         Length Name                                                                                                              
+----                 -------------         ------ ----                                                                                                              
+-a----        11/20/2026   6:47 PM           2045 animate.py                                                                                                        
+
+
+    Directory: C:\Users\ASUS\Desktop\stickman-video-director\skills\directing-stickman-videos\assets\b6\hong-kong-v90\source\work\hk-1990s-kitchen-motion-v64
+
+
+Mode                 LastWriteTime         Length Name                                                                                                              
+----                 -------------         ------ ----                                                                                                              
+d-----        11/20/2026   6:47 PM                assets                                                                                                            
+-a----        11/20/2026   6:47 PM           4196 animate.py                                                                                                        
+
+
+    Directory: C:\Users\ASUS\Desktop\stickman-video-director\skills\directing-stickman-videos\assets\b6\hong-kong-v90\source\work\hk-1990s-kitchen-motion-v64\assets
+
+
+Mode                 LastWriteTime         Length Name                                                                                                              
+----                 -------------         ------ ----                                                                                                              
+-a----        11/20/2026   6:47 PM          15907 chef-body.png                                                                                                     
+-a----        11/20/2026   6:47 PM           9715 chef-head.png                                                                                                     
+-a----        11/20/2026   6:47 PM            886 chef-left-hand.png                                                                                                
+-a----        11/20/2026   6:47 PM            800 chef-right-hand.png                                                                                               
+-a----        11/20/2026   6:47 PM          40260 kitchen-clean.png                                                                                                 
+-a----        11/20/2026   6:47 PM           3740 layers.json                                                                                                       
+-a----        11/20/2026   6:47 PM           3985 pot-lid.png                                                                                                       
+
+
+    Directory: C:\Users\ASUS\Desktop\stickman-video-director\skills\directing-stickman-videos\assets\b6\hong-kong-v90\source\work\hk-1990s-limbs-v56
+
+
+Mode                 LastWriteTime         Length Name                                                                                                              
+----                 -------------         ------ ----                                                                                                              
+-a----        11/20/2026   6:47 PM            712 animate.py                                                                                                        
+
+
+    Directory: C:\Users\ASUS\Desktop\stickman-video-director\skills\directing-stickman-videos\assets\b6\hong-kong-v90\source\work\hk-1990s-motion-v52
+
+
+Mode                 LastWriteTime         Length Name                                                                                                              
+----                 -------------         ------ ----                                                                                                              
+d-----        11/20/2026   6:47 PM                assets                                                                                                            
+
+
+    Directory: C:\Users\ASUS\Desktop\stickman-video-director\skills\directing-stickman-videos\assets\b6\hong-kong-v90\source\work\hk-1990s-motion-v52\assets
+
+
+Mode                 LastWriteTime         Length Name                                                                                                              
+----                 -------------         ------ ----                                                                                                              
+-a----        11/20/2026   6:47 PM         152980 awning.png                                                                                                        
+-a----        11/20/2026   6:47 PM        2283703 cafe-clean-generated.png                                                                                          
+-a----        11/20/2026   6:47 PM         148480 crates.png                                                                                                        
+-a----        11/20/2026   6:47 PM          27385 grocery-bag.png                                                                                                   
+-a----        11/20/2026   6:47 PM           1637 hero-hand.png                                                                                                     
+-a----        11/20/2026   6:47 PM           1664 owner-hand.png                                                                                                    
+-a----        11/20/2026   6:47 PM          87797 owner-head.png                                                                                                    
+-a----        11/20/2026   6:47 PM          18378 receipt.png                                                                                                       
+-a----        11/20/2026   6:47 PM          66371 street-body.png                                                                                                   
+-a----        11/20/2026   6:47 PM          56687 street-head.png                                                                                                   
+-a----        11/20/2026   6:47 PM           3853 street-shoe-a.png                                                                                                 
+-a----        11/20/2026   6:47 PM           3895 street-shoe-b.png                                                                                                 
+-a----        11/20/2026   6:47 PM          38468 taxi.png                                                                                                          
+
+
+    Directory: C:\Users\ASUS\Desktop\stickman-video-director\skills\directing-stickman-videos\assets\b6\hong-kong-v90\source\work\hk-1990s-overhaul-v57
+
+
+Mode                 LastWriteTime         Length Name                                                                                                              
+----                 -------------         ------ ----                                                                                                              
+-a----        11/20/2026   6:47 PM          12252 animate.py                                                                                                        
+-a----        11/20/2026   6:47 PM           7935 character.py                                                                                                      
+
+
+    Directory: C:\Users\ASUS\Desktop\stickman-video-director\skills\directing-stickman-videos\assets\b6\hong-kong-v90\source\work\hk-1990s-patrons-v65
+
+
+Mode                 LastWriteTime         Length Name                                                                                                              
+----                 -------------         ------ ----                                                                                                              
+d-----        11/20/2026   6:47 PM                assets                                                                                                            
+-a----        11/20/2026   6:47 PM           3220 animate.py                                                                                                        
+
+
+    Directory: C:\Users\ASUS\Desktop\stickman-video-director\skills\directing-stickman-videos\assets\b6\hong-kong-v90\source\work\hk-1990s-patrons-v65\assets
+
+
+Mode                 LastWriteTime         Length Name                                                                                                              
+----                 -------------         ------ ----                                                                                                              
+-a----        11/20/2026   6:47 PM           3557 layers.json                                                                                                       
+-a----        11/20/2026   6:47 PM          21934 newspaper.png                                                                                                     
+-a----        11/20/2026   6:47 PM           1222 paper-left-hand.png                                                                                               
+-a----        11/20/2026   6:47 PM          80882 patrons-clean.png                                                                                                 
+-a----        11/20/2026   6:47 PM           5462 tea-cup.png                                                                                                       
+-a----        11/20/2026   6:47 PM          14199 tea-shirt.png                                                                                                     
+
+
+    Directory: C:\Users\ASUS\Desktop\stickman-video-director\skills\directing-stickman-videos\assets\b6\hong-kong-v90\source\work\hk-1990s-surprise-pose-v63
+
+
+Mode                 LastWriteTime         Length Name                                                                                                              
+----                 -------------         ------ ----                                                                                                              
+-a----        11/20/2026   6:47 PM           7265 animate.py                                                                                                        
+
+
+    Directory: C:\Users\ASUS\Desktop\stickman-video-director\skills\directing-stickman-videos\assets\b6\hong-kong-v90\source\work\hk-1990s-taxi-v68
+
+
+Mode                 LastWriteTime         Length Name                                                                                                              
+----                 -------------         ------ ----                                                                                                              
+-a----        11/20/2026   6:47 PM           6333 animate.py                                                                                                        
+
+
+    Directory: C:\Users\ASUS\Desktop\stickman-video-director\skills\directing-stickman-videos\assets\b6\hong-kong-v90\source\work\hk-empty-gun-preview-v71
+
+
+Mode                 LastWriteTime         Length Name                                                                                                              
+----                 -------------         ------ ----                                                                                                              
+d-----        11/20/2026   6:47 PM                assets                                                                                                            
+
+
+    Directory: C:\Users\ASUS\Desktop\stickman-video-director\skills\directing-stickman-videos\assets\b6\hong-kong-v90\source\work\hk-empty-gun-preview-v71\assets
+
+
+Mode                 LastWriteTime         Length Name                                                                                                              
+----                 -------------         ------ ----                                                                                                              
+-a----        11/20/2026   6:47 PM          59308 bun-whole.png                                                                                                     
+-a----        11/20/2026   6:47 PM        3123614 near-counter.png                                                                                                  
+-a----        11/20/2026   6:47 PM        3123553 patron-cup.png                                                                                                    
+-a----        11/20/2026   6:47 PM        3123578 patron-paper.png                                                                                                  
+-a----        11/20/2026   6:47 PM           2344 plate.png                                                                                                         
+-a----        11/20/2026   6:47 PM        2731370 room-clean.png                                                                                                    
+-a----        11/20/2026   6:47 PM        1512202 strong-bite.png                                                                                                   
+-a----        11/20/2026   6:47 PM        1505906 strong-body.png                                                                                                   
+-a----        11/20/2026   6:47 PM        1515132 strong-head-blink.png                                                                                             
+-a----        11/20/2026   6:47 PM        1519397 strong-head.png                                                                                                   
+-a----        11/20/2026   6:47 PM        1513877 strong-speak.png                                                                                                  
+-a----        11/20/2026   6:47 PM        1512063 strong-tight-blink.png                                                                                            
+-a----        11/20/2026   6:47 PM        1516365 strong-tight.png                                                                                                  
+-a----        11/20/2026   6:47 PM        3123770 table-front.png                                                                                                   
+
+
+    Directory: C:\Users\ASUS\Desktop\stickman-video-director\skills\directing-stickman-videos\assets\b6\hong-kong-v90\source\work\hk-v68-extension-v75
+
+
+Mode                 LastWriteTime         Length Name                                                                                                              
+----                 -------------         ------ ----                                                                                                              
+-a----        11/20/2026   6:47 PM           9195 animate.py                                                                                                        
+-a----        11/20/2026   6:47 PM           1521 timeline.json                                                                                                     
+
+
+    Directory: C:\Users\ASUS\Desktop\stickman-video-director\skills\directing-stickman-videos\assets\b6\hong-kong-v90\source\work\hk-v76-multiscene
+
+
+Mode                 LastWriteTime         Length Name                                                                                                              
+----                 -------------         ------ ----                                                                                                              
+d-----        11/20/2026   6:47 PM                assets                                                                                                            
+
+
+    Directory: C:\Users\ASUS\Desktop\stickman-video-director\skills\directing-stickman-videos\assets\b6\hong-kong-v90\source\work\hk-v76-multiscene\assets
+
+
+Mode                 LastWriteTime         Length Name                                                                                                              
+----                 -------------         ------ ----                                                                                                              
+-a----        11/20/2026   6:47 PM        2338058 arcade-wide.png                                                                                                   
+
+
+    Directory: C:\Users\ASUS\Desktop\stickman-video-director\skills\directing-stickman-videos\assets\b6\hong-kong-v90\source\work\hk-v77-actions
+
+
+Mode                 LastWriteTime         Length Name                                                                                                              
+----                 -------------         ------ ----                                                                                                              
+-a----        11/20/2026   6:47 PM          15715 animate.py                                                                                                        
+-a----        11/20/2026   6:47 PM           2629 timeline.json                                                                                                     
+
+
+    Directory: C:\Users\ASUS\Desktop\stickman-video-director\skills\directing-stickman-videos\assets\b6\hong-kong-v90\source\work\hk-v78-arm-clarity
+
+
+Mode                 LastWriteTime         Length Name                                                                                                              
+----                 -------------         ------ ----                                                                                                              
+-a----        11/20/2026   6:47 PM           3143 animate.py                                                                                                        
+
+
+    Directory: C:\Users\ASUS\Desktop\stickman-video-director\skills\directing-stickman-videos\assets\b6\hong-kong-v90\source\work\hk-v80-native-rate
+
+
+Mode                 LastWriteTime         Length Name                                                                                                              
+----                 -------------         ------ ----                                                                                                              
+-a----        11/20/2026   6:47 PM           1024 captions.json                                                                                                     
+
+
+    Directory: C:\Users\ASUS\Desktop\stickman-video-director\skills\directing-stickman-videos\assets\b6\hong-kong-v90\source\work\hk-v86-booth-arms
+
+
+Mode                 LastWriteTime         Length Name                                                                                                              
+----                 -------------         ------ ----                                                                                                              
+-a----        11/20/2026   6:47 PM           8597 animate.py                                                                                                        
+
+
+    Directory: C:\Users\ASUS\Desktop\stickman-video-director\skills\directing-stickman-videos\assets\b6\hong-kong-v90\source\work\hk-v87-arm-readability
+
+
+Mode                 LastWriteTime         Length Name                                                                                                              
+----                 -------------         ------ ----                                                                                                              
+-a----        11/20/2026   6:47 PM           9171 animate.py                                                                                                        
+
+
+    Directory: C:\Users\ASUS\Desktop\stickman-video-director\skills\directing-stickman-videos\assets\b6\hong-kong-v90\source\work\hk-v88-ending-camera
+
+
+Mode                 LastWriteTime         Length Name                                                                                                              
+----                 -------------         ------ ----                                                                                                              
+-a----        11/20/2026   6:47 PM           4086 animate.py                                                                                                        
+
+
+    Directory: C:\Users\ASUS\Desktop\stickman-video-director\skills\directing-stickman-videos\assets\b6\hong-kong-v90\source\work\hk-v89-counter-opening
+
+
+Mode                 LastWriteTime         Length Name                                                                                                              
+----                 -------------         ------ ----                                                                                                              
+-a----        11/20/2026   6:47 PM           3797 animate.py                                                                                                        
+
+
+    Directory: C:\Users\ASUS\Desktop\stickman-video-director\skills\directing-stickman-videos\assets\b6\hong-kong-v90\source\work\hk-v90-unified-arms
+
+
+Mode                 LastWriteTime         Length Name                                                                                                              
+----                 -------------         ------ ----                                                                                                              
+-a----        11/20/2026   6:47 PM           8484 animate.py                                                                                                        
+-a----        11/20/2026   6:47 PM           5644 rig.py                                                                                                            
+
+
+    Directory: C:\Users\ASUS\Desktop\stickman-video-director\skills\directing-stickman-videos\assets\b6\paint
+
+
+Mode                 LastWriteTime         Length Name                                                                                                              
+----                 -------------         ------ ----                                                                                                              
+-a----        11/20/2026   6:47 PM         222304 buyer-body.png                                                                                                    
+-a----        11/20/2026   6:47 PM         232301 buyer-greedy-head.png                                                                                             
+-a----        11/20/2026   6:47 PM         224632 buyer-head.png                                                                                                    
+-a----        11/20/2026   6:47 PM         170107 buyer-side-body.png                                                                                               
+-a----        11/20/2026   6:47 PM         203280 buyer-side-head.png                                                                                               
+-a----        11/20/2026   6:47 PM        1579806 carriage-body.png                                                                                                 
+-a----        11/20/2026   6:47 PM           4703 carriage-rig.json                                                                                                 
+-a----        11/20/2026   6:47 PM         193652 coins.png                                                                                                         
+-a----        11/20/2026   6:47 PM          14918 foreground-lamp.png                                                                                               
+-a----        11/20/2026   6:47 PM        2593721 foreign-panorama.png                                                                                              
+-a----        11/20/2026   6:47 PM         146826 hero-back-body.png                                                                                                
+-a----        11/20/2026   6:47 PM         146054 hero-back-head.png                                                                                                
+-a----        11/20/2026   6:47 PM         331254 hero-body.png                                                                                                     
+-a----        11/20/2026   6:47 PM         165717 hero-front-head.png                                                                                               
+-a----        11/20/2026   6:47 PM           5071 hero-hand.png                                                                                                     
+-a----        11/20/2026   6:47 PM         319084 hero-head.png                                                                                                     
+-a----        11/20/2026   6:47 PM         107122 hero-side-body.png                                                                                                
+-a----        11/20/2026   6:47 PM         150523 hero-side-head.png                                                                                                
+-a----        11/20/2026   6:47 PM          42313 horse-leg-0.png                                                                                                   
+-a----        11/20/2026   6:47 PM          37936 horse-leg-1.png                                                                                                   
+-a----        11/20/2026   6:47 PM          50019 horse-leg-2.png                                                                                                   
+-a----        11/20/2026   6:47 PM          45568 horse-leg-3.png                                                                                                   
+-a----        11/20/2026   6:47 PM        2236767 hotel-panorama.png                                                                                                
+-a----        11/20/2026   6:47 PM           4262 ink-stroke.png                                                                                                    
+-a----        11/20/2026   6:47 PM         213822 letter.png                                                                                                        
+-a----        11/20/2026   6:47 PM        2238166 paris-panorama.png                                                                                                
+-a----        11/20/2026   6:47 PM           8607 shoe-left.png                                                                                                     
+-a----        11/20/2026   6:47 PM           9828 shoe-right.png                                                                                                    
+-a----        11/20/2026   6:47 PM        2206156 study-panorama.png                                                                                                
+-a----        11/20/2026   6:47 PM         250448 table.png                                                                                                         
+-a----        11/20/2026   6:47 PM         186195 wheel-0.png                                                                                                       
+-a----        11/20/2026   6:47 PM         185596 wheel-1.png                                                                                                       
+
+
+    Directory: C:\Users\ASUS\Desktop\stickman-video-director\skills\directing-stickman-videos\assets\b6\production
+
+
+Mode                 LastWriteTime         Length Name                                                                                                              
+----                 -------------         ------ ----                                                                                                              
+-a----        11/20/2026   6:47 PM            653 example-captions.json                                                                                             
+-a----        11/20/2026   6:47 PM           3269 example-landscape.json                                                                                            
+-a----        11/20/2026   6:47 PM            388 example-scene.py                                                                                                  
+-a----        11/20/2026   6:47 PM            468 example-story.json                                                                                                
+-a----        11/20/2026   6:47 PM           5284 puppet-test-scene.py                                                                                              
+-a----        11/20/2026   6:47 PM           1300 scene.py                                                                                                          
+
+
+    Directory: C:\Users\ASUS\Desktop\stickman-video-director\skills\directing-stickman-videos\assets\b6\reference
+
+
+Mode                 LastWriteTime         Length Name                                                                                                              
+----                 -------------         ------ ----                                                                                                              
+-a----        11/20/2026   6:47 PM        1641134 approved-character-v21b.png                                                                                       
+-a----        11/20/2026   6:47 PM       20309438 eiffel-16x9.mp4                                                                                                   
+-a----        11/20/2026   6:47 PM       18165260 eiffel-portrait-v44.mp4                                                                                           
+-a----        11/20/2026   6:47 PM       10360849 hong-kong-v90-20s.mp4                                                                                             
+-a----        11/20/2026   6:47 PM        1307128 landscape-v45-excerpt.mp4                                                                                         
+-a----        11/20/2026   6:47 PM        1277037 portrait-v44-excerpt.mp4                                                                                          
+
+
+    Directory: C:\Users\ASUS\Desktop\stickman-video-director\skills\directing-stickman-videos\assets\b6\starter
+
+
+Mode                 LastWriteTime         Length Name                                                                                                              
+----                 -------------         ------ ----                                                                                                              
+-a----        11/20/2026   6:47 PM           5280 landscape.json                                                                                                    
+-a----        11/20/2026   6:47 PM           5664 portrait.json                                                                                                     
+-a----        11/20/2026   6:47 PM           2267 scene.mjs                                                                                                         
+-a----        11/20/2026   6:47 PM            503 story.json                                                                                                        
+
+
+    Directory: C:\Users\ASUS\Desktop\stickman-video-director\skills\directing-stickman-videos\assets\b7
+
+
+Mode                 LastWriteTime         Length Name                                                                                                              
+----                 -------------         ------ ----                                                                                                              
+d-----        11/20/2026   6:47 PM                approved-portrait                                                                                                 
+d-----        11/20/2026   6:47 PM                approved-v6-v11                                                                                                   
+-a----        11/20/2026   6:47 PM         135012 approved-film-board.png                                                                                           
+-a----        11/20/2026   6:47 PM         156502 button-and-years.mp4                                                                                              
+-a----        11/20/2026   6:47 PM         312806 choices-and-noodles.mp4                                                                                           
+-a----        11/20/2026   6:47 PM           2127 CREDITS.md                                                                                                        
+-a----        11/20/2026   6:47 PM         155051 ocean-payoff.mp4                                                                                                  
+-a----        11/20/2026   6:47 PM          30625 professions-approved.png                                                                                          
+-a----        11/20/2026   6:47 PM          11659 reference-manifest.json                                                                                           
+-a----        11/20/2026   6:47 PM           5004 release-readiness.json                                                                                            
+
+
+    Directory: C:\Users\ASUS\Desktop\stickman-video-director\skills\directing-stickman-videos\assets\b7\approved-portrait
+
+
+Mode                 LastWriteTime         Length Name                                                                                                              
+----                 -------------         ------ ----                                                                                                              
+-a----        11/20/2026   6:47 PM           3901 captions.json                                                                                                     
+-a----        11/20/2026   6:47 PM         738842 fast-forward-portrait-v3-10s.mp4                                                                                  
+-a----        11/20/2026   6:47 PM          80907 layout-board.png                                                                                                  
+-a----        11/20/2026   6:47 PM           1188 MUSIC-CREDITS.txt                                                                                                 
+-a----        11/20/2026   6:47 PM           1356 README.md                                                                                                         
+-a----        11/20/2026   6:47 PM           2044 reference.json                                                                                                    
+
+
+    Directory: C:\Users\ASUS\Desktop\stickman-video-director\skills\directing-stickman-videos\assets\b7\approved-v6-v11
+
+
+Mode                 LastWriteTime         Length Name                                                                                                              
+----                 -------------         ------ ----                                                                                                              
+-a----        11/20/2026   6:47 PM        3320566 fast-forward-v11-full.mp4                                                                                         
+-a----        11/20/2026   6:47 PM           1188 fast-forward-v11-MUSIC-CREDITS.txt                                                                                
+-a----        11/20/2026   6:47 PM        5416455 paths-v6-full.mp4                                                                                                 
+-a----        11/20/2026   6:47 PM            675 paths-v6-MUSIC-CREDITS.txt                                                                                        
+-a----        11/20/2026   6:47 PM           1939 README.md                                                                                                         
+
+
+    Directory: C:\Users\ASUS\Desktop\stickman-video-director\skills\directing-stickman-videos\assets\fonts
+
+
+Mode                 LastWriteTime         Length Name                                                                                                              
+----                 -------------         ------ ----                                                                                                              
+-a----        11/20/2026   6:47 PM         130324 Anton.ttf                                                                                                         
+-a----        11/20/2026   6:47 PM          90988 ArchivoBlack.ttf                                                                                                  
+-a----        11/20/2026   6:47 PM         403648 Caveat.ttf                                                                                                        
+-a----        11/20/2026   6:47 PM        2049096 NotoSans.ttf                                                                                                      
+-a----        11/20/2026   6:47 PM         132164 Nunito.ttf                                                                                                        
+-a----        11/20/2026   6:47 PM           4323 OFL-Anton.txt                                                                                                     
+-a----        11/20/2026   6:47 PM           4491 OFL-ArchivoBlack.txt                                                                                              
+-a----        11/20/2026   6:47 PM           4477 OFL-Caveat.txt                                                                                                    
+-a----        11/20/2026   6:47 PM           4488 OFL-NotoSans.txt                                                                                                  
+-a----        11/20/2026   6:47 PM           4477 OFL-Nunito.txt                                                                                                    
+-a----        11/20/2026   6:47 PM           3094 README.md                                                                                                         
+
+
+    Directory: C:\Users\ASUS\Desktop\stickman-video-director\skills\directing-stickman-videos\examples
+
+
+Mode                 LastWriteTime         Length Name                                                                                                              
+----                 -------------         ------ ----                                                                                                              
+d-----        11/20/2026   6:47 PM                b1                                                                                                                
+d-----        11/20/2026   6:47 PM                b5-causal-interruption                                                                                            
+d-----        11/20/2026   6:47 PM                b5-mei-event-relay                                                                                                
+
+
+    Directory: C:\Users\ASUS\Desktop\stickman-video-director\skills\directing-stickman-videos\examples\b1
+
+
+Mode                 LastWriteTime         Length Name                                                                                                              
+----                 -------------         ------ ----                                                                                                              
+-a----        11/20/2026   6:47 PM         389003 narration.m4a                                                                                                     
+-a----        11/20/2026   6:47 PM           4203 project.json                                                                                                      
+
+
+    Directory: C:\Users\ASUS\Desktop\stickman-video-director\skills\directing-stickman-videos\examples\b5-causal-interruption
+
+
+Mode                 LastWriteTime         Length Name                                                                                                              
+----                 -------------         ------ ----                                                                                                              
+d-----        11/20/2026   6:47 PM                assets                                                                                                            
+-a----        11/20/2026   6:47 PM           3059 action-cards.md                                                                                                   
+-a----        11/20/2026   6:47 PM           4418 README.md                                                                                                         
+-a----        11/20/2026   6:47 PM           3025 render-demo.cjs                                                                                                   
+-a----        11/20/2026   6:47 PM           2344 renderer.cjs                                                                                                      
+-a----        11/20/2026   6:47 PM           4129 source-manifest.json                                                                                              
+-a----        11/20/2026   6:47 PM          15189 stage.cjs                                                                                                         
+-a----        11/20/2026   6:47 PM            900 title-atlas.json                                                                                                  
+-a----        11/20/2026   6:47 PM           2531 verification.json                                                                                                 
+-a----        11/20/2026   6:47 PM           2687 verify.cjs                                                                                                        
+
+
+    Directory: C:\Users\ASUS\Desktop\stickman-video-director\skills\directing-stickman-videos\examples\b5-causal-interruption\assets
+
+
+Mode                 LastWriteTime         Length Name                                                                                                              
+----                 -------------         ------ ----                                                                                                              
+-a----        11/20/2026   6:47 PM           4323 Anton-OFL.txt                                                                                                     
+-a----        11/20/2026   6:47 PM        1153336 paper.png                                                                                                         
+-a----        11/20/2026   6:47 PM           7756 title-v2-0.png                                                                                                    
+-a----        11/20/2026   6:47 PM           3990 title-v2-1.png                                                                                                    
+-a----        11/20/2026   6:47 PM           3920 title-v2-2.png                                                                                                    
+-a----        11/20/2026   6:47 PM           4258 title-v3-0.png                                                                                                    
+-a----        11/20/2026   6:47 PM           2018 title-v3-1.png                                                                                                    
+
+
+    Directory: C:\Users\ASUS\Desktop\stickman-video-director\skills\directing-stickman-videos\examples\b5-mei-event-relay
+
+
+Mode                 LastWriteTime         Length Name                                                                                                              
+----                 -------------         ------ ----                                                                                                              
+-a----        11/20/2026   6:47 PM           1256 mei-reference-rig.cjs                                                                                             
+-a----        11/20/2026   6:47 PM           2179 new-story-stage.cjs                                                                                               
+-a----        11/20/2026   6:47 PM           4037 provenance.json                                                                                                   
+-a----        11/20/2026   6:47 PM           5508 README.md                                                                                                         
+-a----        11/20/2026   6:47 PM            772 render-frame.cjs                                                                                                  
+-a----        11/20/2026   6:47 PM           3680 reverification.json                                                                                               
+-a----        11/20/2026   6:47 PM          50391 source-frame-ledger.json                                                                                          
+-a----        11/20/2026   6:47 PM           9427 stage.cjs                                                                                                         
+-a----        11/20/2026   6:47 PM           4023 verify-example.cjs                                                                                                
+
+
+    Directory: C:\Users\ASUS\Desktop\stickman-video-director\skills\directing-stickman-videos\references
+
+
+Mode                 LastWriteTime         Length Name                                                                                                              
+----                 -------------         ------ ----                                                                                                              
+-a----        11/20/2026   6:47 PM          11170 a-audio-timeline-and-review.md                                                                                    
+-a----        11/20/2026   6:47 PM          16662 a-production-and-review.md                                                                                        
+-a----        11/20/2026   6:47 PM          13628 a1-a5-direction.md                                                                                                
+-a----        11/20/2026   6:47 PM           7164 a6-finishing.md                                                                                                   
+-a----        11/20/2026   6:47 PM           5718 a6-reference-prompts.md                                                                                           
+-a----        11/20/2026   6:47 PM           9163 a7-acceptance.md                                                                                                  
+-a----        11/20/2026   6:47 PM           7662 a7-prompt-contract.md                                                                                             
+-a----        11/20/2026   6:47 PM          16081 amber-noir.md                                                                                                     
+-a----        11/20/2026   6:47 PM          22152 autopilot-production-qa.md                                                                                        
+-a----        11/20/2026   6:47 PM          34550 autopilot-runtime.md                                                                                              
+-a----        11/20/2026   6:47 PM          25126 autopilot-sound-system.md                                                                                         
+-a----        11/20/2026   6:47 PM          27059 autopilot.md                                                                                                      
+-a----        11/20/2026   6:47 PM          12885 b-audio-library.md                                                                                                
+-a----        11/20/2026   6:47 PM          13861 b-delivery-completeness.md                                                                                        
+-a----        11/20/2026   6:47 PM          12507 b-style-installed-workflow.md                                                                                     
+-a----        11/20/2026   6:47 PM          15705 b1-b2-b3-native-portrait.md                                                                                       
+-a----        11/20/2026   6:47 PM          19160 b1-b2-b3-reference-acceptance.md                                                                                  
+-a----        11/20/2026   6:47 PM          11974 b1-minimal-handdrawn.md                                                                                           
+-a----        11/20/2026   6:47 PM           7612 b1-production-qa.md                                                                                               
+-a----        11/20/2026   6:47 PM           9867 b2-colorful-handdrawn.md                                                                                          
+-a----        11/20/2026   6:47 PM          13141 b3-semantic-motion.md                                                                                             
+-a----        11/20/2026   6:47 PM          19722 b3-television.md                                                                                                  
+-a----        11/20/2026   6:47 PM           4059 b4-asset-origin.md                                                                                                
+-a----        11/20/2026   6:47 PM          16582 b4-audio-direction.md                                                                                             
+-a----        11/20/2026   6:47 PM          21353 b4-opening-direction.md                                                                                           
+-a----        11/20/2026   6:47 PM          16135 b4-picture-animation.md                                                                                           
+-a----        11/20/2026   6:47 PM           9378 b4-repeatability-check.md                                                                                         
+-a----        11/20/2026   6:47 PM          22744 b4-survival-storytelling.md                                                                                       
+-a----        11/20/2026   6:47 PM          21781 b4-typography-acceptance.md                                                                                       
+-a----        11/20/2026   6:47 PM          12020 b5-accepted-baselines.md                                                                                          
+-a----        11/20/2026   6:47 PM           4287 b5-art-kit.md                                                                                                     
+-a----        11/20/2026   6:47 PM          16961 b5-avatar-motion.md                                                                                               
+-a----        11/20/2026   6:47 PM          16435 b5-character-explainer.md                                                                                         
+-a----        11/20/2026   6:47 PM           7452 b5-crazymei-directing-structure.md                                                                                
+-a----        11/20/2026   6:47 PM           6884 b5-first-preview.md                                                                                               
+-a----        11/20/2026   6:47 PM          14907 b5-left-stage-motion.md                                                                                           
+-a----        11/20/2026   6:47 PM          11147 b5-mei-filled-example.md                                                                                          
+-a----        11/20/2026   6:47 PM           5397 b5-mei-original-prompt.md                                                                                         
+-a----        11/20/2026   6:47 PM           9898 b5-mei-scene-template.md                                                                                          
+-a----        11/20/2026   6:47 PM          14281 b5-production-gate.md                                                                                             
+-a----        11/20/2026   6:47 PM           6173 b5-sound-qa.md                                                                                                    
+-a----        11/20/2026   6:47 PM          10629 b5-v5-causal-workflow.md                                                                                          
+-a----        11/20/2026   6:47 PM          66096 b5-visual-acceptance.md                                                                                           
+-a----        11/20/2026   6:47 PM           5982 b6-actions.md                                                                                                     
+-a----        11/20/2026   6:47 PM          14218 b6-art-direction.md                                                                                               
+-a----        11/20/2026   6:47 PM          15217 b6-character-binding.md                                                                                           
+-a----        11/20/2026   6:47 PM           2039 b6-character-preflight.md                                                                                         
+-a----        11/20/2026   6:47 PM           7642 b6-code-runtime.md                                                                                                
+-a----        11/20/2026   6:47 PM          16330 b6-dynamic-meme.md                                                                                                
+-a----        11/20/2026   6:47 PM           4864 b6-fast-iteration.md                                                                                              
+-a----        11/20/2026   6:47 PM           7086 b6-hong-kong-v90.md                                                                                               
+-a----        11/20/2026   6:47 PM          24006 b6-installed-production.md                                                                                        
+-a----        11/20/2026   6:47 PM          23509 b6-motion-review.md                                                                                               
+-a----        11/20/2026   6:47 PM          10180 b6-native-formats.md                                                                                              
+-a----        11/20/2026   6:47 PM          19275 b6-puppet-api.md                                                                                                  
+-a----        11/20/2026   6:47 PM          25214 b6-sample-1-acceptance.md                                                                                         
+-a----        11/20/2026   6:47 PM          10883 b7-native-portrait.md                                                                                             
+-a----        11/20/2026   6:47 PM          28432 b7-pixel-theater.md                                                                                               
+-a----        11/20/2026   6:47 PM          21257 b7-review.md                                                                                                      
+-a----        11/20/2026   6:47 PM           8024 cozy-storytelling.md                                                                                              
+-a----        11/20/2026   6:47 PM          36205 examples.md                                                                                                       
+-a----        11/20/2026   6:47 PM          34008 getting-started.md                                                                                                
+-a----        11/20/2026   6:47 PM          15411 historical-cartoon.md                                                                                             
+-a----        11/20/2026   6:47 PM           3327 installation-troubleshooting.md                                                                                   
+-a----        11/20/2026   6:47 PM          19898 mode-execution-boundaries.md                                                                                      
+-a----        11/20/2026   6:47 PM           8404 music-sourcing-and-license.md                                                                                     
+-a----        11/20/2026   6:47 PM          21600 omni-flash-prompt-contract.md                                                                                     
+-a----        11/20/2026   6:47 PM           7184 prehistoric-dark-comedy.md                                                                                        
+-a----        11/20/2026   6:47 PM          11548 rubber-hose.md                                                                                                    
+-a----        11/20/2026   6:47 PM          15198 storyboard-template.md                                                                                            
+-a----        11/20/2026   6:47 PM          16583 style-catalog.md                                                                                                  
+-a----        11/20/2026   6:47 PM           7996 thumbnail-publishing-kit.md                                                                                       
+-a----        11/20/2026   6:47 PM           8677 voice-continuity.md                                                                                               
+
+
+    Directory: C:\Users\ASUS\Desktop\stickman-video-director\skills\directing-stickman-videos\scripts
+
+
+Mode                 LastWriteTime         Length Name                                                                                                              
+----                 -------------         ------ ----                                                                                                              
+-a----        11/20/2026   6:47 PM          14940 a6_finish.py                                                                                                      
+-a----        11/20/2026   6:47 PM           8604 a6_reference_check.py                                                                                             
+-a----        11/20/2026   6:47 PM           2215 align_captions.py                                                                                                 
+-a----        11/20/2026   6:47 PM          25299 audio-library.mjs                                                                                                 
+-a----        11/20/2026   6:47 PM          20043 autopilot-core.mjs                                                                                                
+-a----        11/20/2026   6:47 PM          33888 autopilot-render.mjs                                                                                              
+-a----        11/20/2026   6:47 PM          20511 autopilot.mjs                                                                                                     
+-a----        11/20/2026   6:47 PM          25871 b-delivery-completeness.mjs                                                                                       
+-a----        11/20/2026   6:47 PM           6427 b-style-motion-geometry.mjs                                                                                       
+-a----        11/20/2026   6:47 PM           9062 b-style-portrait-paint.mjs                                                                                        
+-a----        11/20/2026   6:47 PM           6858 b-style-portrait.mjs                                                                                              
+-a----        11/20/2026   6:47 PM           8969 b-style-quality.mjs                                                                                               
+-a----        11/20/2026   6:47 PM          37820 b-style-reference-review.mjs                                                                                      
+-a----        11/20/2026   6:47 PM          21107 b-style-workflow.mjs                                                                                              
+-a----        11/20/2026   6:47 PM           5795 b3-graphics.mjs                                                                                                   
+-a----        11/20/2026   6:47 PM          19717 b3-semantic-motion.mjs                                                                                            
+-a----        11/20/2026   6:47 PM           4363 b4-asset-origin.mjs                                                                                               
+-a----        11/20/2026   6:47 PM           2306 b4-font-coverage.mjs                                                                                              
+-a----        11/20/2026   6:47 PM           4210 b4-opening-audio-check.mjs                                                                                        
+-a----        11/20/2026   6:47 PM           9033 b4-opening-visual-check.mjs                                                                                       
+-a----        11/20/2026   6:47 PM          20842 b4-opening.mjs                                                                                                    
+-a----        11/20/2026   6:47 PM          31985 b4-picture-review.mjs                                                                                             
+-a----        11/20/2026   6:47 PM          15247 b4-production-check.mjs                                                                                           
+-a----        11/20/2026   6:47 PM           6441 b4-runtime.mjs                                                                                                    
+-a----        11/20/2026   6:47 PM           3342 b4-style-lock.mjs                                                                                                 
+-a----        11/20/2026   6:47 PM          34030 b4-typography-review.mjs                                                                                          
+-a----        11/20/2026   6:47 PM          13441 b5-art-kit.cjs                                                                                                    
+-a----        11/20/2026   6:47 PM          39772 b5-png-review-gate.mjs                                                                                            
+-a----        11/20/2026   6:47 PM           7303 b5-png-revision.mjs                                                                                               
+-a----        11/20/2026   6:47 PM          14502 b5-preview-gate.mjs                                                                                               
+-a----        11/20/2026   6:47 PM          12884 b5-production-quality.mjs                                                                                         
+-a----        11/20/2026   6:47 PM          14810 b5-reference-study.mjs                                                                                            
+-a----        11/20/2026   6:47 PM          33037 b5-visual-review.mjs                                                                                              
+-a----        11/20/2026   6:47 PM          22221 b6-dynamic-meme.mjs                                                                                               
+-a----        11/20/2026   6:47 PM           7800 b6-fonts.mjs                                                                                                      
+-a----        11/20/2026   6:47 PM           4902 b6-hong-kong.mjs                                                                                                  
+-a----        11/20/2026   6:47 PM           5603 b6-production.mjs                                                                                                 
+-a----        11/20/2026   6:47 PM           8927 b6-scene.mjs                                                                                                      
+-a----        11/20/2026   6:47 PM           9944 b6_actions.py                                                                                                     
+-a----        11/20/2026   6:47 PM          36343 b6_asset_roles.py                                                                                                 
+-a----        11/20/2026   6:47 PM           8100 b6_caption.py                                                                                                     
+-a----        11/20/2026   6:47 PM           3759 b6_character_example.py                                                                                           
+-a----        11/20/2026   6:47 PM          10006 b6_character_preflight.py                                                                                         
+-a----        11/20/2026   6:47 PM          12262 b6_hong_kong.py                                                                                                   
+-a----        11/20/2026   6:47 PM           8751 b6_iteration.py                                                                                                   
+-a----        11/20/2026   6:47 PM          50536 b6_motion_review.py                                                                                               
+-a----        11/20/2026   6:47 PM          39341 b6_production.py                                                                                                  
+-a----        11/20/2026   6:47 PM           2558 b6_production_example.py                                                                                          
+-a----        11/20/2026   6:47 PM          63098 b6_puppet.py                                                                                                      
+-a----        11/20/2026   6:47 PM           9780 b6_space.py                                                                                                       
+-a----        11/20/2026   6:47 PM          20880 b7-review.mjs                                                                                                     
+-a----        11/20/2026   6:47 PM          13651 b7_pixel_primitives.py                                                                                            
+-a----        11/20/2026   6:47 PM           5953 b7_reflective_ending.py                                                                                           
+-a----        11/20/2026   6:47 PM            450 canonical-json.mjs                                                                                                
+-a----        11/20/2026   6:47 PM          23591 character-explainer.mjs                                                                                           
+-a----        11/20/2026   6:47 PM            454 file-sha256.mjs                                                                                                   
+-a----        11/20/2026   6:47 PM           4797 gemini-media.mjs                                                                                                  
+
+
+    Directory: C:\Users\ASUS\Desktop\stickman-video-director\skills\directing-stickman-videos\tests
+
+
+Mode                 LastWriteTime         Length Name                                                                                                              
+----                 -------------         ------ ----                                                                                                              
+d-----        11/20/2026   6:47 PM                fixtures                                                                                                          
+d-----        11/20/2026   6:47 PM                helpers                                                                                                           
+-a----        11/20/2026   6:47 PM           3676 audio-bed-coverage.test.mjs                                                                                       
+-a----        11/20/2026   6:47 PM          21471 audio-library.test.mjs                                                                                            
+-a----        11/20/2026   6:47 PM          22567 b-delivery-completeness.test.mjs                                                                                  
+-a----        11/20/2026   6:47 PM           4976 b-style-motion-windows.test.mjs                                                                                   
+-a----        11/20/2026   6:47 PM           5232 b-style-portrait-cache.test.mjs                                                                                   
+-a----        11/20/2026   6:47 PM           8195 b-style-portrait-paint.test.mjs                                                                                   
+-a----        11/20/2026   6:47 PM           6870 b-style-portrait-scope.test.mjs                                                                                   
+-a----        11/20/2026   6:47 PM           9915 b-style-portrait.test.mjs                                                                                         
+-a----        11/20/2026   6:47 PM           6449 b-style-quality.test.mjs                                                                                          
+-a----        11/20/2026   6:47 PM          17852 b-style-reference-cli.test.mjs                                                                                    
+-a----        11/20/2026   6:47 PM          36445 b-style-reference-review.test.mjs                                                                                 
+-a----        11/20/2026   6:47 PM          17419 b-style-workflow.test.mjs                                                                                         
+-a----        11/20/2026   6:47 PM           5064 b3-reference-pack.test.mjs                                                                                        
+-a----        11/20/2026   6:47 PM           7453 b3-runtime.test.mjs                                                                                               
+-a----        11/20/2026   6:47 PM          16126 b3-semantic-motion.test.mjs                                                                                       
+-a----        11/20/2026   6:47 PM           2779 b4-asset-origin.test.mjs                                                                                          
+-a----        11/20/2026   6:47 PM           6011 b4-audio-policy.test.mjs                                                                                          
+-a----        11/20/2026   6:47 PM           3219 b4-opening-audio-check.test.mjs                                                                                   
+-a----        11/20/2026   6:47 PM           6676 b4-opening-policy.test.mjs                                                                                        
+-a----        11/20/2026   6:47 PM          20505 b4-opening-runtime.test.mjs                                                                                       
+-a----        11/20/2026   6:47 PM          16087 b4-picture-review.test.mjs                                                                                        
+-a----        11/20/2026   6:47 PM          11686 b4-portrait-runtime.test.mjs                                                                                      
+-a----        11/20/2026   6:47 PM          18807 b4-production-check.test.mjs                                                                                      
+-a----        11/20/2026   6:47 PM          23780 b4-runtime.test.mjs                                                                                               
+-a----        11/20/2026   6:47 PM           7529 b4-style-lock.test.mjs                                                                                            
+-a----        11/20/2026   6:47 PM          20228 b4-typography-review.test.mjs                                                                                     
+-a----        11/20/2026   6:47 PM           6434 b4-typography-scope.test.mjs                                                                                      
+-a----        11/20/2026   6:47 PM           2874 b5-art-init.test.mjs                                                                                              
+-a----        11/20/2026   6:47 PM           2496 b5-art-kit.test.cjs                                                                                               
+-a----        11/20/2026   6:47 PM           1087 b5-example-verifier.test.mjs                                                                                      
+-a----        11/20/2026   6:47 PM           6259 b5-first-entry-template.test.mjs                                                                                  
+-a----        11/20/2026   6:47 PM           9690 b5-left-stage-contract.test.mjs                                                                                   
+-a----        11/20/2026   6:47 PM           8657 b5-local-baseline.test.mjs                                                                                        
+-a----        11/20/2026   6:47 PM          26631 b5-png-review-gate.test.mjs                                                                                       
+-a----        11/20/2026   6:47 PM          27221 b5-preview-gate.test.mjs                                                                                          
+-a----        11/20/2026   6:47 PM          25716 b5-production-quality.test.mjs                                                                                    
+-a----        11/20/2026   6:47 PM          15879 b5-reference-study.test.mjs                                                                                       
+-a----        11/20/2026   6:47 PM          21740 b5-visual-review.test.mjs                                                                                         
+-a----        11/20/2026   6:47 PM           4513 b5-windows-paths.test.mjs                                                                                         
+-a----        11/20/2026   6:47 PM           9112 b6-fonts.test.mjs                                                                                                 
+-a----        11/20/2026   6:47 PM           1619 b6-hong-kong.test.mjs                                                                                             
+-a----        11/20/2026   6:47 PM           6587 b6-production.test.mjs                                                                                            
+-a----        11/20/2026   6:47 PM          13294 b6-runtime.test.mjs                                                                                               
+-a----        11/20/2026   6:47 PM           8984 b6_actions_test.py                                                                                                
+-a----        11/20/2026   6:47 PM          15977 b6_asset_isolation_test.py                                                                                        
+-a----        11/20/2026   6:47 PM          11826 b6_caption_test.py                                                                                                
+-a----        11/20/2026   6:47 PM           5705 b6_character_preflight_test.py                                                                                    
+-a----        11/20/2026   6:47 PM           9071 b6_helper_trust_test.py                                                                                           
+-a----        11/20/2026   6:47 PM           4151 b6_hong_kong_test.py                                                                                              
+-a----        11/20/2026   6:47 PM           8055 b6_iteration_test.py                                                                                              
+-a----        11/20/2026   6:47 PM          45171 b6_motion_review_test.py                                                                                          
+-a----        11/20/2026   6:47 PM          22943 b6_production_test.py                                                                                             
+-a----        11/20/2026   6:47 PM          28045 b6_puppet_test.py                                                                                                 
+-a----        11/20/2026   6:47 PM           6914 b6_resource_paths_test.py                                                                                         
+-a----        11/20/2026   6:47 PM           3145 b6_space_test.py                                                                                                  
+-a----        11/20/2026   6:47 PM          12504 b6_speed_workflow_test.py                                                                                         
+-a----        11/20/2026   6:47 PM           2165 b6_test_fonts.py                                                                                                  
+-a----        11/20/2026   6:47 PM          15442 b7-reference-pack.test.mjs                                                                                        
+-a----        11/20/2026   6:47 PM          21076 b7-review.test.mjs                                                                                                
+-a----        11/20/2026   6:47 PM          18923 b7_pixel_primitives_test.py                                                                                       
+-a----        11/20/2026   6:47 PM           4293 b7_reflective_ending_test.py                                                                                      
+-a----        11/20/2026   6:47 PM           8833 character-explainer.test.mjs                                                                                      
+-a----        11/20/2026   6:47 PM           6548 provider-routing.test.mjs                                                                                         
+-a----        11/20/2026   6:47 PM          22995 runtime.test.mjs                                                                                                  
+-a----        11/20/2026   6:47 PM           7601 test_a6_references.py                                                                                             
+
+
+    Directory: C:\Users\ASUS\Desktop\stickman-video-director\skills\directing-stickman-videos\tests\fixtures
+
+
+Mode                 LastWriteTime         Length Name                                                                                                              
+----                 -------------         ------ ----                                                                                                              
+-a----        11/20/2026   6:47 PM           3725 a6-coastal-station.plan.json                                                                                      
+-a----        11/20/2026   6:47 PM           5052 a6-night-library.plan.json                                                                                        
+
+
+    Directory: C:\Users\ASUS\Desktop\stickman-video-director\skills\directing-stickman-videos\tests\helpers
+
+
+Mode                 LastWriteTime         Length Name                                                                                                              
+----                 -------------         ------ ----                                                                                                              
+-a----        11/20/2026   6:47 PM           3579 b5-png-review-fixture.mjs                                                                                         
+-a----        11/20/2026   6:47 PM           4561 b5-rehearsal-fixture.mjs                                                                                          
+-a----        11/20/2026   6:47 PM           3700 reference-review.mjs                                                                                              
